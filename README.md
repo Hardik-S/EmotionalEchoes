@@ -17,8 +17,8 @@ A frontend-only React application that serves as an MVP for Emotional Echoes, an
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/emotional-echoes.git
-   cd emotional-echoes
+   git clone https://github.com/Hardik-S/emotionalechoes.git
+   cd emotionalechoes
    ```
 
 2. Install dependencies
